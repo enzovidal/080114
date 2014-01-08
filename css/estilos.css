@@ -3,7 +3,8 @@ body {
 }
 
 #cabecera {
-	background-color: #ccc;
+	background:url(../img/cabecera.png);
+	color: #fff;
 	height: 50px;
 	position: fixed;
 	width: 100%;
@@ -16,18 +17,41 @@ body {
 }
 
 .contenido {
-	background-color: #f00;
 	float: left;
 	position: relative;
 	text-align: left;
 	width: 960px;
 }
 
-#contenedor {
+#inicio {
+	background-color: #ff0;
+	float: left;
+	height: 95%;
+	padding-top: 5%;
+	width: 100%;
+}
+
+#nosotros {
+	background-color: #f00;
+	float: left;
+	height: 95%;
+	padding-top: 5%;
+	width: 100%;
+}
+
+#servicios {
+	background-color: #ccc;
+	float: left;
+	height: 95%;
+	padding-top: 5%;
+	width: 100%;
+}
+
+#contacto {
 	background-color: #999;
 	float: left;
-	height: 800px;
-	padding-top: 60px;
+	height: 95%;
+	padding-top: 5%;
 	width: 100%;
 }
 
