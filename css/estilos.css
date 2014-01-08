@@ -27,7 +27,7 @@ body {
 }
 
 .nav ul li a:hover{
-	color: #ccc;
+	color: #fff;
 }
 
 .centrar {
@@ -75,8 +75,15 @@ body {
 }
 
 #pie {
-	background-color: #666;
-	float: left;
-	height: 100px;
+	background-color: #333;
+	bottom: 0;
+	left: 0;
+	color: #fff;
+	position: fixed;
+	padding: 15px 0;
 	width: 100%;
 }
+
+
+
+
