@@ -1,0 +1,34 @@
+body {
+	text-align: center;
+}
+
+#cabecera {
+	background-color: #ccc;
+	float: left;
+	width: 100%;
+}
+
+.centrar {
+	margin: 0 auto;
+	width: 960px;
+}
+
+.contenido {
+	background-color: #f00;
+	float: left;
+	position: relative;
+	text-align: left;
+	width: 960px;
+}
+
+#contenedor {
+	background-color: #999;
+	float: left;
+	width: 100%;
+}
+
+#pie {
+	background-color: #666;
+	float: left;
+	width: 100%;
+}
